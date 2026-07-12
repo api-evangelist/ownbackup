@@ -24,6 +24,10 @@ apis:
       - type: Documentation
         url: https://www.owndata.com/resources
 common:
+  - type: TrustCenter
+    url: security/ownbackup-trust-center.yml
+  - type: DomainSecurity
+    url: security/ownbackup-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/ownbackup
   - type: Website
